@@ -10,7 +10,7 @@ sudo dpkg -i discord-0.0.56.deb
 wget https://launcher.mojang.com/download/Minecraft.deb 
 sudo dpkg -i Minecraft.deb
 wget https://updates.getmailspring.com/download?platform=linuxDeb
-sudo dpkg -i mailspring-1.13.3-amd64.deb
+sudo dpkg -i download?platform=linuxDeb.deb
 wget https://cdn.akamai.steamstatic.com/client/installer/steam.deb
-sudo dpkg -i steam_latest.deb
+sudo dpkg -i steam.deb
 echo "Were done installing :D make sure to uninstall the deb files in your home folder!"
